@@ -7,3 +7,7 @@ void main () {
   print("Smallest Number: ${numbers.first}");
   print("Greatest Number: ${numbers.last}");
 }
+
+// Answer is ->
+//            Smallest Number: 10
+//            Greatest Number: 100
